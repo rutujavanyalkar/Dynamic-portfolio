@@ -78,3 +78,18 @@ node server.js
 ```bash
 http://localhost:5000
 ```
+
+## 🔌 API Endpoints
+```bash
+Base URL: /api/Portfolio
+```
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | /intro | Fetch intro data |
+| GET | /about | Fetch about data |
+| GET | /contacts | Fetch contact data |
+
+
+
+
+
