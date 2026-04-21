@@ -32,8 +32,20 @@ mern-portfolio/
 └── README.md
 ```
 
-##⚙️ Getting Started
-📌 Prerequisites
-Node.js (v16 or above)
-MongoDB Atlas Account
-npm
+## ⚙️ Getting Started
+
+### 📌 Prerequisites
+
+- Node.js (v16 or above)
+- MongoDB Atlas Account
+- npm
+
+---
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/mern-portfolio.git
+cd mern-portfolio
+
+
