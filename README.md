@@ -47,9 +47,34 @@ mern-portfolio/
 ```bash
 git clone https://github.com/your-username/mern-portfolio.git
 cd mern-portfolio
+```
 
 ### 2️⃣ Install Dependencies
 
 ```bash
 npm install
+```
+### 3️⃣ Configure Environment Variables
 
+Create a .env file in the root directory:
+```bash
+mongo_url=your_mongodb_connection_string
+PORT=5000
+```
+⚠️ Never commit your .env file. Add it to .gitignore.
+
+### 4️⃣ Run Project
+
+Development Mode
+```bash
+npx nodemon server.js
+```
+Production Mode
+```bash
+node server.js
+```
+
+### 5️⃣ Server URL
+```bash
+http://localhost:5000
+```
