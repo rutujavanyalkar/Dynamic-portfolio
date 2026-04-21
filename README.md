@@ -48,4 +48,8 @@ mern-portfolio/
 git clone https://github.com/your-username/mern-portfolio.git
 cd mern-portfolio
 
+### 2️⃣ Install Dependencies
+
+```bash
+npm install
 
