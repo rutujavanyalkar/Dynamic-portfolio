@@ -89,7 +89,27 @@ Base URL: /api/Portfolio
 | GET | /about | Fetch about data |
 | GET | /contacts | Fetch contact data |
 
+## 🌱 Static Data
 
+The staticData.js file includes:
 
+Intro Section
+About Section
+Contact Section
+# 🔒 Security Notes
+Store credentials in .env
+Add .env to .gitignore
+Never expose MongoDB URI publicly
+Use separate environment variables for production
+# 📦 Dependencies
+```bash
+{
+  "cors": "^2.8.5",
+  "dotenv": "^16.4.5",
+  "express": "^4.19.2",
+  "mongoose": "^8.5.1",
+  "nodemon": "^3.1.4"
+}
+```
 
 
