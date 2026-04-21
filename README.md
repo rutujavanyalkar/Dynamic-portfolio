@@ -96,12 +96,12 @@ The staticData.js file includes:
 Intro Section
 About Section
 Contact Section
-# 🔒 Security Notes
+### 🔒 Security Notes
 Store credentials in .env
 Add .env to .gitignore
 Never expose MongoDB URI publicly
 Use separate environment variables for production
-# 📦 Dependencies
+### 📦 Dependencies
 ```bash
 {
   "cors": "^2.8.5",
