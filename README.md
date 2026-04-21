@@ -30,8 +30,9 @@ mern-portfolio/
 ├── .env                   # Environment variables (not committed)
 ├── package.json
 └── README.md
+```
 
-## ⚙️ Getting Started
+##⚙️ Getting Started
 📌 Prerequisites
 Node.js (v16 or above)
 MongoDB Atlas Account
