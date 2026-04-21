@@ -111,5 +111,11 @@ Use separate environment variables for production
   "nodemon": "^3.1.4"
 }
 ```
+## 🙋‍♀️ Author
+Rutuja Vanyalkar
+📧 rutujavanyalkar@gmail.com
 
+## 📄 License
+
+ISC License
 
